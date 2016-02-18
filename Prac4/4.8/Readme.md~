@@ -3,5 +3,8 @@
 ---------------
 We are going to make one program on the dice roller in which the number in the dice will be selected randomly.
 To make a program over this firstly we need to make a class DiceRoller in which we will have a doGet() method in which we will have our application logic. To make the dice working randomly use the random() method of the class java.lang.Math. To print the number on the browser call the method getWriter() of the response object which will return the PrintWriter object. Now by the object of the PrintWriter class print the values of the dice on the browser. 
+![compile](https://cloud.githubusercontent.com/assets/16969523/13147907/e1bd2520-d680-11e5-9f3d-f1918667d773.JPG)
+![dice](https://cloud.githubusercontent.com/assets/16969523/13147906/e1b977a4-d680-11e5-83ec-c291a44efda7.JPG)
+![dice2](https://cloud.githubusercontent.com/assets/16969523/13147908/e1c37b46-d680-11e5-99e6-e94941d38cff.JPG)
 
 
