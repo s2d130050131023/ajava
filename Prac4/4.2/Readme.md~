@@ -1,6 +1,8 @@
 4.2 Displaying Date in Servlet
 ------------------------------
 In this example we are going to show how we can display a current date and time on our browser. It is very easy to display it on our browser by using the Date class of the java.util package.
+![compile](https://cloud.githubusercontent.com/assets/16969523/13147149/1e27ebf6-d67e-11e5-85ff-a93b418b5bd1.JPG)
+![date](https://cloud.githubusercontent.com/assets/16969523/13147150/1e36c05e-d67e-11e5-9e61-393f99a5c41d.JPG)
 
 4.4 A Holistic counter in Servlet
 ---------------------------------
